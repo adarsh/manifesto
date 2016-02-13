@@ -35,7 +35,9 @@ when I can remember to do so.
   people feel badly.
 * Every Friday afternoon, the team should demo the product to whoever pays for
   it. That's accountability.
-* The term "Backlog" is extremely discouraging and should be avoided.
+* The term "Backlog" is extremely discouraging and should be avoided. Think
+  about having a "backlog" on day 1 of the project: You haven't even started and
+  you're already behind!
 * Marking time in "sprints" clearly tells the developers to
   "work at an unhealthy pace until you can't go on anymore".
   Language is important.
