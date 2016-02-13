@@ -48,8 +48,8 @@ when I can remember to do so.
   "work at an unhealthy pace until you can't go on anymore".
   Language is important.
 * The product should ship to real users as soon as possible, ideally within a
-  few weeks. Further iterations should be based on user feedback, not someone's
-  fever dreams. You are not Steve Jobs.
+  few weeks. Further features should only be based on user feedback,
+  not someone's fever dreams. You are not Steve Jobs.
 
 [The Agile Manifesto]: http://www.agilemanifesto.org
 
@@ -74,6 +74,11 @@ when I can remember to do so.
 ### Communication
 
 ### Tool Choice
+
+### On App Ideas
+
+* Worthless. The value comes only in shipping software, talking to users, and
+  iterating based on that feedback as quickly and intelligently as possible.
 
 ## Acknowledgements
 
