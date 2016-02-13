@@ -24,9 +24,12 @@ when I can remember to do so.
   future or too far down in the implementation details, or both.
 * Every Monday Morning, have a Planning Meeting. The purpose is to list all the
   user stories worth working on that week and prioritize them. That's it.
-* The term "Backlog" is extremely discouraging and should be avoided.
+* Every user story should be validated somehow with actual or potential users.
+  You can do so via prototyping, A/B testing, False Doors, etc. but if it's just
+  someone's idea, you are throwing money away and wasting everyone's time.
 * Every Friday afternoon, the team should demo the product to whoever pays for
   it. That's accountability.
+* The term "Backlog" is extremely discouraging and should be avoided.
 
 
 
