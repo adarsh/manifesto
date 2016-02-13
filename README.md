@@ -16,9 +16,9 @@ when I can remember to do so.
 
 ### Managing the Software Development Process
 
-* The only measure of progress is shipped working software in production. (from
-  [The Agile Manifesto]) This means no velocity, no burndown charts, no story
-  counting.
+* The only measure of progress is shipped working software in production
+ (from [The Agile Manifesto]).
+  This means no velocity, no burndown charts, no story points or counting.
 * The people who are actually building the software are in the best position to
   design and alter the tools, communication flows, and project management
   philosophy.
