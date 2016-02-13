@@ -27,10 +27,15 @@ when I can remember to do so.
 * Every user story should be validated somehow with actual or potential users.
   You can do so via prototyping, A/B testing, False Doors, etc. but if it's just
   someone's idea, you are throwing money away and wasting everyone's time.
+* Estimating how long something will take to build is, at best, a worthless
+  activity and at worst, damaging to the team's trust and dynamic. Estimates are
+  never correct, or even close to accurate. They do not help product owners
+  "decide what to buy" because the cost is always unknown. Measuring "how much
+  we got done this week" only decreases development efficiency, because it makes
+  people feel badly.
 * Every Friday afternoon, the team should demo the product to whoever pays for
   it. That's accountability.
 * The term "Backlog" is extremely discouraging and should be avoided.
-
 
 
 ### Writing and Maintaining Healthy Code
