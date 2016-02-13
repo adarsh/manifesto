@@ -17,8 +17,11 @@ when I can remember to do so.
 ### Managing the Software Development Process
 
 * Software is best built with at least one other person.
-It's not impossible to do by yourself, but it won't come out as well
-and certainly won't be as much fun.
+  It's not impossible to do by yourself, but it won't come out as well
+  and certainly won't be as much fun.
+* The best project management tools, in order, are Trello, Stickie Notes,
+  and Nothing. If you need more than this, you are likely overplanning into the
+  future or too far down in the implementation details, or both.
 
 ### Writing and Maintaining Healthy Code
 
