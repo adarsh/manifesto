@@ -3,10 +3,10 @@
 ## Why?
 
 After building software for many years,
-I've come to hold some beliefs
+I've come to develop some beliefs
 about how to do so effectively,
 efficiently,
-and with the best team.
+and with the happiest team.
 
 All opinions are my own,
 although most are based on
@@ -15,6 +15,10 @@ Those smarties are attributed
 when I can remember to do so.
 
 ### Managing the Software Development Process
+
+* Software is best built with at least one other person.
+It's not impossible to do by yourself, but it won't come out as well
+and certainly won't be as much fun.
 
 ### Writing and Maintaining Healthy Code
 
