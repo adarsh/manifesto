@@ -52,14 +52,19 @@ when I can remember to do so.
 
 ### Writing and Maintaining Healthy Code
 
+* Software is most cheaply and safely written with 100% test coverage.
+* The tests should be written first. There are no exceptions. Spikes are helpful
+  research, but should be deleted.
+* RSpec is the best tool for testing Ruby code. It is well-maintained and
+  evolves with the community.
 * Every Monday morning, [update your dependencies].
+* Pull requests should be small and take no longer than a day to write. If need
+  be, create pull requests into non-master branches or feature-flag your work.
 * Deploying the code to staging or production should be a one-line command.
   It should not take longer than 5 minutes in total. If it does, your project
   will slow down dramatically. Heroku is best for this. There is a massive
   implied cost in running your own infrastructure or doing custom deploys. It is
   not even close to outweighed by paying Heroku a little more for servers.
-* Pull request should be small and take no longer than a day to write. If need
-  be, create pull requests into non-master branches or feature-flag your work.
 
 [update your dependencies]: http://adarsh.io/save-money-and-be-happier-by-updating-your-gems-every-monday-morning/
 
