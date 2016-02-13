@@ -22,13 +22,28 @@ when I can remember to do so.
 * The best project management tools, in order, are Trello, Stickie Notes,
   and Nothing. If you need more than this, you are likely overplanning into the
   future or too far down in the implementation details, or both.
+* Every Monday Morning, have a Planning Meeting. The purpose is to list all the
+  user stories worth working on that week and prioritize them. That's it.
+* The term "Backlog" is extremely discouraging and should be avoided.
+* Every Friday afternoon, the team should demo the product to whoever pays for
+  it. That's accountability.
+
+
 
 ### Writing and Maintaining Healthy Code
+
+* Every Monday morning, [update your dependencies].
+* Deploying the code to staging or production should be a one-line command.
+  It should not take longer than 5 minutes in total. If it does, your project
+  will slow down dramatically. Heroku is best for this. There is a massive
+  implied cost in running your own infrastructure or doing custom deploys. It is
+  not even close to outweighed by paying Heroku a little more for servers.
+
+[update your dependencies]: http://adarsh.io/save-money-and-be-happier-by-updating-your-gems-every-monday-morning/
 
 ### Communication
 
 ### Tool Choice
-
 
 ## Acknowledgements
 
