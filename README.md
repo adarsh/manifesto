@@ -36,6 +36,9 @@ when I can remember to do so.
 * Every Friday afternoon, the team should demo the product to whoever pays for
   it. That's accountability.
 * The term "Backlog" is extremely discouraging and should be avoided.
+* Marking time in "sprints" clearly tells the developers to
+  "work at an unhealthy pace until you can't go on anymore".
+  Language is important.
 
 
 ### Writing and Maintaining Healthy Code
