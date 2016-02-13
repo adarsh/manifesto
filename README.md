@@ -26,8 +26,8 @@ when I can remember to do so.
   It's not impossible to do by yourself, but it won't come out as well
   and certainly won't be as much fun.
 * The best project management tools, in order, are Trello, Stickie Notes,
-  and Nothing. If you need more than this, you are likely overplanning into the
-  future or too far down in the implementation details, or both.
+  and Nothing. If you need more than this, you are likely planning too far ahead
+  into the future or too far down in the implementation details, or both.
 * Every Monday Morning, have a Planning Meeting. The purpose is to list all the
   user stories worth working on that week and prioritize them. That's it.
 * Every user story should be validated somehow with actual or potential users.
@@ -58,6 +58,8 @@ when I can remember to do so.
   will slow down dramatically. Heroku is best for this. There is a massive
   implied cost in running your own infrastructure or doing custom deploys. It is
   not even close to outweighed by paying Heroku a little more for servers.
+* Pull request should be small and take no longer than a day to write. If need
+  be, create pull requests into non-master branches or feature-flag your work.
 
 [update your dependencies]: http://adarsh.io/save-money-and-be-happier-by-updating-your-gems-every-monday-morning/
 
