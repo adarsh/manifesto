@@ -16,6 +16,12 @@ when I can remember to do so.
 
 ### Managing the Software Development Process
 
+* The only measure of progress is shipped working software in production. (from
+  [The Agile Manifesto]) This means no velocity, no burndown charts, no story
+  counting.
+* The people who are actually building the software are in the best position to
+  design and alter the tools, communication flows, and project management
+  philosophy.
 * Software is best built with at least one other person.
   It's not impossible to do by yourself, but it won't come out as well
   and certainly won't be as much fun.
@@ -42,6 +48,7 @@ when I can remember to do so.
   "work at an unhealthy pace until you can't go on anymore".
   Language is important.
 
+[The Agile Manifesto]: http://www.agilemanifesto.org
 
 ### Writing and Maintaining Healthy Code
 
