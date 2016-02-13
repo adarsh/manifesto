@@ -40,13 +40,16 @@ when I can remember to do so.
   we got done this week" only decreases development efficiency, because it makes
   people feel badly.
 * Every Friday afternoon, the team should demo the product to whoever pays for
-  it. That's accountability.
+  it. That's the best way of being accountable.
 * The term "Backlog" is extremely discouraging and should be avoided. Think
   about having a "backlog" on day 1 of the project: You haven't even started and
   you're already behind!
 * Marking time in "sprints" clearly tells the developers to
   "work at an unhealthy pace until you can't go on anymore".
   Language is important.
+* The product should ship to real users as soon as possible, ideally within a
+  few weeks. Further iterations should be based on user feedback, not someone's
+  fever dreams. You are not Steve Jobs.
 
 [The Agile Manifesto]: http://www.agilemanifesto.org
 
