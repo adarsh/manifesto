@@ -30,6 +30,10 @@ when I can remember to do so.
 
 [The Agile Manifesto]: http://www.agilemanifesto.org
 
+### Daily Standup Meetings
+
+http://martinfowler.com/articles/itsNotJustStandingUp.html
+
 ### Planning
 
 * Every Monday Morning, have a Planning Meeting. The purpose is to list all the
