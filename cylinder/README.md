@@ -37,8 +37,11 @@ These ideal attributes are subject to change by the organization given 2/3rds ag
 * Aims to create, sustain, and grow by making sensible business decisions.
 * Transparency.
 * Bring together the best possible team.
-* To handle things which 
-* Also all of the Idealized Employee Attributes
+* To handle things which distract creators.
+* To enable [trade mastery by creators][2].
+* Also all of the Idealized Employee Attributes.
+
+[2]: https://hackernoon.com/76-of-high-performance-employees-say-trade-mastery-not-money-most-important-in-career-decisions-e0c457884d2e
 
 ## Idealized Employee Attributes
 
