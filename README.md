@@ -130,8 +130,8 @@ http://martinfowler.com/articles/itsNotJustStandingUp.html
 
 ## License
 
-This work is Copyright ©2016
-Adarsh Pandit.
+This work is Copyright ©2017
+Cylinder Digital, Inc. and Adarsh Pandit.
 It may not be redistributed
 without express written consent
 of the author.
